@@ -10,7 +10,7 @@ import { Toaster } from "react-hot-toast";
 import { GeistSans } from "geist/font/sans";
 
 export const metadata = {
-  title: "Filip Nikolov | Personal Portfolio",
+  title: "Filip Nikolov | Portfolio",
   description: "blank",
 };
 
